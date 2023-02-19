@@ -2,8 +2,8 @@
     
     max-width:100%;
     height:885px;
-    background: transparent url('./Desktop/finalproject/Image\ 73.jpg') 0% 0% no-repeat padding-box; 
-   
+    background:  url('./Image\ 73.jpg') 0% 0% no-repeat padding-box; 
+    background-size: cover;
 }
 .section0{
     background-color: #FFFFFF;
@@ -13,8 +13,7 @@
     left: 0px;
     max-width:100%;
     height: 223px;
-    background:100% transparent url('./Desktop/finalproject/mask28.png') 0% 0% no-repeat padding-box;
-    opacity: 1; 
+    
      
 }
 .navbar-nav{
@@ -46,12 +45,13 @@ text-align: center;
 
 max-width:100%;
 height: 1201px;
-background: transparent url('./Desktop/finalproject/Rectangle\ 73.jpg') 0% 0% no-repeat padding-box;
-
+background: transparent url('./Rectangle\ 73.jpg') 0% 0% no-repeat padding-box;
+background-size: cover;
 }
 .sec2{
-    background: transparent url('./Desktop/finalproject/Mask\ Group\ 27.png') 0% 0% no-repeat padding-box;
+    background: transparent url('./Mask\ Group\ 27.png') 0% 0% no-repeat padding-box;
     padding-top: 100px;
+    background-size: cover;
 }
 .section3{
 top: 0px;
@@ -61,24 +61,27 @@ height: 662px;
 background: #FFFFFF 0% 0% no-repeat padding-box;
 opacity: 1;
 text-align: center;
+background-size: cover;
 }
 .section4{
 top: 2962px;
 left: 0px;
 max-width:100%;
 height: 662px;
-background: transparent url('./Desktop/finalproject/Group\ 57.jpg') 0% 0% no-repeat padding-box;
+background: transparent url('./Group\ 57.jpg') 0% 0% no-repeat padding-box;
 opacity: 1;
 text-align: center;
+background-size: cover;
 }
 .section5{
     top: 3624px;
     left: 0px;
     max-width:100%;
     height: 635px;
-    background: transparent url('./Desktop/finalproject/Rectangle\ 42.jpg') 0% 0% no-repeat padding-box;
+    background: transparent url('./Rectangle\ 42.jpg') 0% 0% no-repeat padding-box;
     opacity: 1;
     text-align: center;
+    background-size: cover;
 }
 
 .img2{
